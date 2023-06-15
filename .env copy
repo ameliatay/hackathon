@@ -1,0 +1,13 @@
+# frontend-only envs
+NEXT_PUBLIC_HOST=http://localhost:3000
+
+ISSUANCE_API_URL=https://console-vc-issuance.apse1.affinidi.com/api
+VERIFIER_API_URL=https://affinity-verifier.prod.affinity-project.org/api
+CLOUD_WALLET_API_URL=https://cloud-wallet-api.prod.affinity-project.org/api
+
+ISSUER_LOGIN=issuer@affinidi.com
+ISSUER_PASSWORD=test
+
+ISSUER_API_KEY_HASH=11c65e2873ba71b7daa7e45423c0443b563f4880ce812f7ba89187921d3440f9
+ISSUER_PROJECT_DID=did:elem:EiBLXTiBtfUvTIST_UiTicXEy6uPU3nS2odGyHyllNis1w
+ISSUER_PROJECT_ID=f3b09280-fc49-4500-a99c-e4e36b137d15
